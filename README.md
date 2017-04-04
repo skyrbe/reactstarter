@@ -3,16 +3,15 @@
 ### What is this repository for? ###
 
 * Quick summary
-Webapp for Yomillio
+React starter project
 * Version 0.1.1
 
 ### How do I get set up? ###
 
-* git clone https://hvenkatram@bitbucket.org/yomillio_webportal/web-portal.git
-* cd to WebApp
+* git clone https://github.com/skyrbe/reactstarter.git
+* cd to directory
 * sudo npm install (to get all the dependencies in place)
-* sudo npm install forever -g
-* forever start -c 'npm run server' .
+* npm run server
 
 ### NOTES : ###
 
